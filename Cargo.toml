@@ -1,0 +1,5 @@
+[workspace]
+members = ["rust_with_cmake"]
+exclude = ["add_num_cpp_cmake"]
+
+resolver = "2"
